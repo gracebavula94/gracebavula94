@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gracebavula94
+- 👋 Hi, I’m @gracebavula
 - 👀 I’m interested in webapplication and development
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
